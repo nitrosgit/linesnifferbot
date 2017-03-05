@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RN42
+D Class 2 Bluetooth Module Integrated Antenna
+K bluetooth module
+$ENDCMP
+#
+$CMP RN42N
+D Class 2 Bluetooth Module External Antenna
+K bluetooth module
+$ENDCMP
+#
+#End Doc Library

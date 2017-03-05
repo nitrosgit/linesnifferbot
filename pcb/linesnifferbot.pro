@@ -1,4 +1,4 @@
-update=Mon 27 Feb 2017 15:37:02 CET
+update=Sun 05 Mar 2017 07:34:21 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,6 +23,8 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
+[general]
+version=1
 [eeschema]
 version=1
 LibDir=
@@ -56,6 +58,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=pololmororencodr
-[general]
-version=1
+LibName30=DCMotorDriver
+LibName31=Bluetooth
+LibName32=Motor
