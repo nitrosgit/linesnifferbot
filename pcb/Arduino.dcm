@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Arduino_MICRO
+D Arduino MICRO (ATmega32u4)
+K arduino micro atmega32u4 micro microcontroller 8-bit
+$ENDCMP
+#
+#End Doc Library

@@ -1,4 +1,4 @@
-update=Sun 05 Mar 2017 07:34:21 PM CET
+update=Mon 06 Mar 2017 02:24:04 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -61,3 +61,6 @@ LibName29=valves
 LibName30=DCMotorDriver
 LibName31=Bluetooth
 LibName32=Motor
+LibName33=Arduino
+LibName34=Sensors
+LibName35=DC-DC-Regulators

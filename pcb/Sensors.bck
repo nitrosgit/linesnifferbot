@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP INA219
+D I2C Current/Voltage monitor
+K i2c current voltage monitor sensor
+$ENDCMP
+#
+#End Doc Library
