@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74HC74_
+D Dual positive clock edge triggered D flip-flop
+K flip-flop latch D
+$ENDCMP
+#
+$CMP CD4051B
+D 8x1 channel analog multiplexer
+K mux multiplexer analog
+$ENDCMP
+#
+$CMP CD4052B
+D 4x2 channel analog multiplexer
+K mux multiplexer analog
+$ENDCMP
+#
+$CMP CD4053B
+D 2x3 channel analog multiplexer
+K mux multiplexer analog
+$ENDCMP
+#
+$CMP NC7SZ86
+D Single XOR gate
+K xor gate
+$ENDCMP
+#
+$CMP TXB0104
+D 4-Bit Bidirectional Voltage-level Translator
+K voltage level translator buffer
+$ENDCMP
+#
+#End Doc Library

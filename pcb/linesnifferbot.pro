@@ -1,4 +1,4 @@
-update=Mon 06 Mar 2017 02:24:04 PM CET
+update=Mon 13 Mar 2017 12:25:03 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -64,3 +64,5 @@ LibName32=Motor
 LibName33=Arduino
 LibName34=Sensors
 LibName35=DC-DC-Regulators
+LibName36=DiscreteLogic
+LibName37=switch
