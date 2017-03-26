@@ -13,13 +13,6 @@
   )
 
   (page A4)
-  (title_block
-    (title "Linesnifferbot the line following robot - PCB")
-    (date 2017-03-26)
-    (rev 0.9)
-    (company "Nitromethane (https://github.com/nitrosgit/linesnifferbot)")
-  )
-
   (layers
     (0 F.Cu signal)
     (31 B.Cu signal)

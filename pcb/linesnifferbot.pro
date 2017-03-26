@@ -1,4 +1,4 @@
-update=Mon 13 Mar 2017 12:25:03 PM CET
+update=Mon 20 Mar 2017 09:40:17 PM CET
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,13 @@ LibName34=Sensors
 LibName35=DC-DC-Regulators
 LibName36=DiscreteLogic
 LibName37=switch
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
