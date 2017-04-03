@@ -1,4 +1,4 @@
-(module PololuBallCaster_3-8in (layer F.Cu) (tedit 58DE7738)
+(module PololuBallCaster_3-8in (layer F.Cu) (tedit 58E24B9F)
   (fp_text reference REF** (at 0 7.62) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -15,5 +15,5 @@
   (fp_arc (start 6.858 0) (end 8.636 -2.032) (angle 90) (layer F.SilkS) (width 0.15))
   (pad "" np_thru_hole circle (at -6.731 0) (size 4.826 4.826) (drill 2.286) (layers *.Cu *.Mask))
   (pad "" np_thru_hole circle (at 6.731 0) (size 4.826 4.826) (drill 2.286) (layers *.Cu *.Mask))
-  (pad "" np_thru_hole circle (at 0 0) (size 12.7 12.7) (drill 12.7) (layers *.Mask F.Cu))
+  (pad "" np_thru_hole circle (at 0 0) (size 12.4 12.4) (drill 12.4) (layers *.Mask F.Cu))
 )
